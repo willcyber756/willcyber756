@@ -47,15 +47,7 @@ Every lab in this profile follows the same format:
 > 🔴 `splunk-ssh-brute-force-lab` — Detecting SSH brute-force with Splunk SPL  
 > 🟡 `wireshark-packet-analysis` — PCAP walkthroughs with annotated findings  
 > 🟢 `network-plus-study-notes` — Network+ notes by domain, built in public  
-> 🔵 `soc-home-lab-setup` — Full home lab documentation and config  
-
----
-
-### 📊 GitHub Stats
-
-![willcyber756's GitHub stats](https://github-readme-stats.vercel.app/api?username=willcyber756&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willcyber756&layout=compact&theme=dark&hide_border=true)
+> 🔵 `soc-home-lab-setup` — Full home lab documentation and config
 
 ---
 
