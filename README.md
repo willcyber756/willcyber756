@@ -2,7 +2,7 @@
 $ whoami
 > Cybersecurity student building toward SOC analyst role
 > Focused on log analysis, detection engineering, and incident response
-> Documenting every lab publicly — no shortcuts, no gatekeeping
+> Documenting every lab publicly no shortcuts, no gatekeeping
 ```
 
 ---
@@ -21,7 +21,7 @@ $ whoami
 ### 🔬 Currently Building
 
 - 🔍 SSH brute-force detection lab using Splunk SPL queries
-- 📡 Packet analysis walkthroughs with Wireshark — documented with findings
+- 📡 Packet analysis walkthroughs with Wireshark documented with findings
 - 📚 CompTIA Network+ domain-by-domain study notes (publicly tracked)
 - 🛡️ Incident response playbook templates based on real scenarios
 
