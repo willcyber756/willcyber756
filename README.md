@@ -27,7 +27,7 @@ $ whoami
 
 ---
 
-### 📁 Lab Repo Structure
+### Lab Repo Structure
 
 Every lab in this profile follows the same format:
 
@@ -42,7 +42,7 @@ Every lab in this profile follows the same format:
 
 ---
 
-### 📌 Pinned Labs & Projects
+### Pinned Labs & Projects
 
 > 🔴 `splunk-ssh-brute-force-lab` — Detecting SSH brute-force with Splunk SPL  
 > 🟡 `wireshark-packet-analysis` — PCAP walkthroughs with annotated findings  
@@ -51,12 +51,12 @@ Every lab in this profile follows the same format:
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/WilliamCyberSec)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@WilliamCyberSec)
 
-💼 Open to SOC Analyst opportunities
+Open to SOC Analyst opportunities
 
 ---
 
